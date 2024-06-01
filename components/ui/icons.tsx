@@ -104,20 +104,14 @@ function IconOpenAI({ className, ...props }: React.ComponentProps<'svg'>) {
   )
 }
 
-function IconVercel({ className, ...props }: React.ComponentProps<'svg'>) {
+function IconVercel({ className, ...props }: React.ComponentProps<'img'>) {
   return (
-    <svg
-      aria-label="Vercel logomark"
-      role="img"
-      viewBox="0 0 74 64"
+    <img
+      src="/pelosi.png"
+      alt="Pelosi logo"
       className={cn('size-4', className)}
       {...props}
-    >
-      <path
-        d="M37.5896 0.25L74.5396 64.25H0.639648L37.5896 0.25Z"
-        fill="currentColor"
-      ></path>
-    </svg>
+    />
   )
 }
 
