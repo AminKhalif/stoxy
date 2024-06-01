@@ -4,6 +4,8 @@
 </a>
 <p align="center">
   An AI-powered platform to optimize your stock portfolio for maximum returns in the market.
+  ![pelosi](https://github.com/AminKhalif/stoxy/assets/47435863/3362d7c6-15fc-438f-b765-bcb959f792a5)
+
 </p>
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
