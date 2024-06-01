@@ -1,6 +1,7 @@
 <p align="center">
   An AI-powered platform to optimize your stock portfolio for maximum returns in the market.
-  <img src="https://ibb.co/k0tCLdT" alt="Stock Portfolio Optimization">
+  <br>
+  <img src="https://i.ibb.co/k0tCLdT/stock-portfolio-optimization.png" alt="Stock Portfolio Optimization" width="500">
 </p>
 
 <p align="center">
@@ -13,13 +14,12 @@
 
 <br/>
 
-<h2>Features</h2>
-<ul>
-  <li>AI-driven stock analysis and portfolio optimization</li>
-  <li>Real-time market data integration</li>
-  <li>Personalized investment strategies based on risk profile</li>
-  <li>Interactive dashboards and visualizations</li>
-  <li>Support for multiple investment accounts</li>
-  <li>Alerts and notifications for significant market events</li>
-  <li>Secure and encrypted data storage</li>
-</ul>
+## Features
+- AI-driven stock analysis and portfolio optimization
+- Real-time market data integration
+- Personalized investment strategies based on risk profile
+- Interactive dashboards and visualizations
+- Support for multiple investment accounts
+- Alerts and notifications for significant market events
+- Secure and encrypted data storage
+
